@@ -1,0 +1,116 @@
+/*PAGINA PRINCIPAL*/
+.title
+{
+    font-size: 100px;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    font-family: revert;
+    color: #ffff; 
+}
+.p
+{
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.582);
+    border-radius: 100px;
+    font-family: cursive;
+    color: #000000; 
+}
+.margin
+{
+    width: 65%;
+    background-color: rgba(255, 255, 255, 0.452);
+    height: 6px;
+    margin-top: -165px;
+    position: sticky;
+}
+.margin1
+{
+    width: 70%;
+    background-color: rgba(255, 255, 255, 0.5);
+    height: 7px;
+    position: sticky;
+}
+.margin2
+{
+    width: 78%;
+    background-color: rgba(255, 255, 255, 0.616);
+    height: 8px;
+    position: sticky;
+}
+.margin3
+{
+    width: 81%;
+    background-color: rgba(255, 255, 255, 0.651);
+    height: 9px;
+    position: sticky;
+}
+.margin4
+{
+    width: 86%;
+    background-color: rgba(255, 255, 255, 0.747);
+    height: 10px;
+    position: sticky;
+}
+.margin5
+{
+    width: 92%;
+    background-color: rgba(255, 255, 255, 0.897);
+    height: 11px;
+    position: sticky;
+}
+.margin6
+{
+    width: 98%;
+    background-color: rgb(255, 255, 255);
+    height: 12px;
+    position: sticky;
+}
+.combobox
+{
+    margin: 30px;
+    background-color: rgb(29, 29, 29);
+    font-family: revert;
+}
+.Buscador
+{
+    margin: 15px;
+    justify-content: center;
+    color: #ffffff;
+}
+.form-select
+{
+    font-size: large;
+}
+.card {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: rgba(219, 219, 219, 0.089);
+    border-radius: 0.3rem;
+    box-shadow: 0 4x 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+.card-text
+{
+    font-family: revert;
+    font-size: large;
+}
+.btn
+{
+    background-color: white;
+    color: black;
+}
+.btn:hover
+{
+    background-color: black;
+    color: white;
+}
+.text-pedido
+{
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+}
